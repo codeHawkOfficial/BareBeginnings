@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\admin\source\repos\HloWrld\Source.c(15,28): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\admin\source\repos\HloWrld\Source.c(15,39): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\admin\source\repos\HloWrld\Source.c(25,8): warning C4013: 'system' undefined; assuming extern returning int
+  HloWrld.vcxproj -> C:\Users\admin\source\repos\HloWrld\Debug\HloWrld.exe
